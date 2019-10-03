@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/HusseyCoding_CookiesForComments",
+    "name": "openmage-module-fostering\/husseycoding_cookiesforcomments",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Adds contact form spam protection based on the popular WordPress plugin.",
     "authors": [
